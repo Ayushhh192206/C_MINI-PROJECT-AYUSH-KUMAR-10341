@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Ayush kumar_10341
 int main(){
     int num,temp,digit;
     int count = 0;
