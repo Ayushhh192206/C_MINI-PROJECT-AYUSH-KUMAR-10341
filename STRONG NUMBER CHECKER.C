@@ -26,7 +26,7 @@ int main(){
             power =power*digit;
         }
 
-        sum = sum+power;
+        sum = sum+ power;
         temp = temp/10;
     }
 
